@@ -6,8 +6,6 @@ Space – Jump
 Hold Shift – Sprint
 *Sprinting is not needed to complete the level, but allows for faster completion*
 
-GitHub Link:  https://github.com/hnmiyd/I3E_APR
-
 Your spaceship has struck an unknown planet known for having no free electrons! This means that there will be NO ELECTRICITY in this planet unless you find a special crystal that is purple in colour! That crystal will restore all the free electrons back into the planet for your spaceship to start and fly off! However, do be careful as mysterious blobs and squares of orange liquid will scald your skin!
 Navigate the vast open planet cautiously as you find your way OUT of it! 
 
